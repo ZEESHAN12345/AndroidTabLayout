@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\videos_gray.png",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\drawable-mdpi\\videos_gray.png"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\photos_white.png",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\drawable-mdpi\\photos_white.png"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\photos_gray.png",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\drawable-mdpi\\photos_gray.png"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\videos_white.png",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\drawable-mdpi\\videos_white.png"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\songs_gray.png",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\drawable-mdpi\\songs_gray.png"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\songs_white.png",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\drawable-mdpi\\songs_white.png"
+    }
+]

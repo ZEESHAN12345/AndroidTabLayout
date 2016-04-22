@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videos_layout.xml",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\layout\\videos_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photos_layout.xml",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\layout\\photos_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\songs_layout.xml",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\layout\\songs_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android Studio Projects\\AndroidTabLayout\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
